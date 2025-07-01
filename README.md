@@ -2,7 +2,7 @@
 - 👀 I’m interested in making fangames
 - 🌱 I’m currently learning GameMaker 8.2 (GML), Python, C# and Lua.
 - 💞️ I’m looking to collaborate on some fangames (and other stuff)
-- 📫 How to reach me, Discord is:femzangos (friend requests are off for a reason), GameJolt:@Kuwuki
+- 📫 How to reach me, Discord is:femzangos (friend requests are off for a reason), GameJolt:@FemZangos
 - 😄 Pronouns: she/they (MTF)🏳️‍⚧️
 
 <!---
