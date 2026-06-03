@@ -1,8 +1,5 @@
-hai. im femzangos but you can call me zangos.
-
-discord: femzangos (friend req only for mutual friends)
-
-pronouns: she/they
+hai
+i code and stuff
 
 <!---
 Zangos2AN905/Zangos2AN905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
