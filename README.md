@@ -1,5 +1,21 @@
-hai
-i code and stuff
+# hai!
+
+i code stuff when im bored.
+
+
+discord: femzangos
+
+gamejolt: @FemZangos
+
+bsky: femzangos.bsky.social 
+
+
+repositories you should check out and contribute to:
+
+[easyrpg chaos plus](https://github.com/zangos2an905/easyrpg-chaos-plus)
+[tggrecomp](https://github.com/zangos2an905/tgg-recomp)
+
+
 
 <!---
 Zangos2AN905/Zangos2AN905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
