@@ -14,7 +14,7 @@ repositories you should check out and contribute to:
 
 [easyrpg chaos plus](https://github.com/zangos2an905/easyrpg-chaos-plus)
 
-[tggrecomp](https://github.com/zangos2an905/tgg-recomp)
+[tggrecomp](https://github.com/zangos2an905/tggrecomp)
 
 
 
